@@ -1,0 +1,31 @@
+ .heading{
+     background-color: #F85960;
+     font-size: 28px;
+     margin: 0;
+     width: 100%;
+     box-shadow: 5px 5px 5px #FFFF93;
+     color: #1D263B;
+ }
+
+ .note{
+     font-size: 15px;
+     color: whitesmoke;
+ }
+
+ .copyright_footer{
+     width: 100%;
+     position: fixed;
+     bottom: 0;
+     text-align: center;
+     background-color: #3C2552;
+     color: #F5CACB;
+     font-size: 20px;
+     line-height: 3.5;
+ }
+
+ canvas{
+     border: 5px solid #E40066;
+     background-color: #CCE2A3;
+     box-shadow: 5px 5px 5px #FFDDE2;
+     border-radius: 15px;
+ }
